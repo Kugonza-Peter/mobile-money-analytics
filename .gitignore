@@ -1,0 +1,8 @@
+# Large raw data (download from the World Bank instead)
+data/*.csv
+data/*.xlsx
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
