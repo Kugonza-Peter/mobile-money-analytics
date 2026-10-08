@@ -13,12 +13,14 @@ An end-to-end data science project in R analyzing mobile money usage and financi
 ![Account ownership trend](outputs/01_account_trend.png)
 
 ![Gender gap](outputs/02_gender_gap.png)
+![Who has an account](outputs/03_inequality.png)
 
 ## Project structure
 
 - `scripts/02_explore_uganda.R` loads and filters the data
 - `scripts/03_visualize.R` creates the charts
-- `outputs/` holds the saved charts
+- `outputs/` holds the saved 
+- `scripts/04_inequality.R` compares account ownership across groups in 2024
 
 ## Data
 
