@@ -7,11 +7,7 @@ library(bslib)
 library(tidyverse)
 
 # Load and prepare Uganda data
-findex <- read_csv("data/GlobalFindexDatabase2025.csv", show_col_types = FALSE)
-
-uganda <- findex %>%
-  filter(countrynewwb == "Uganda") %>%
-  select(year, group, group2, account_t_d, mobileaccount_t_d)
+uganda <- read_csv("app_data/uganda_findex.csv", show_col_types = FALSE)
 
 group_choices <- c(
   "Overall" = "all",
