@@ -1,6 +1,7 @@
 # Mobile Money & Financial Inclusion Analytics (Uganda)
 
 An end-to-end data science project in R analyzing mobile money usage and financial inclusion in Uganda, using the World Bank Global Findex 2025 database.
+**Live dashboard:** https://kugonza-peter-mobile-money-analytics.share.connect.posit.cloud
 
 ## Key findings
 
