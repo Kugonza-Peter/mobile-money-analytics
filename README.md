@@ -4,6 +4,8 @@ An end-to-end data science project in R analyzing mobile money usage and financi
 
 **Live dashboard:** https://kugonza-peter-mobile-money-analytics.share.connect.posit.cloud
 
+**Full report:** https://kugonza-peter.github.io/mobile-money-analytics/report.html
+
 ## Key findings
 
 - Account ownership among Ugandan adults rose from **20.5% in 2011 to 72.8% in 2024**.
